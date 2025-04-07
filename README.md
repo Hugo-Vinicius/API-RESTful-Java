@@ -1,6 +1,6 @@
-#API RESTful desenvolvida em Java 17, simulando um cadastro de pedidos.
+##API RESTful desenvolvida em Java 17, simulando um cadastro de pedidos.
 
-#Diagrama de Classe
+##Diagrama de Classe
 
  ```mermaid
  classDiagram
